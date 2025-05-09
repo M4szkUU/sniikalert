@@ -1,1 +1,1 @@
-# sniikalert
+# snikalert
